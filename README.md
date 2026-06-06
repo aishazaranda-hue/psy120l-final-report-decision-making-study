@@ -37,7 +37,7 @@ names(study_raw)
 [40] "academic_year"         "gender"                "condition"   
 head(study_raw)
 
-# A tibble: 6 × 42
+# A table: 6 × 42
   StartDate    EndDate Status IPAddress Progress Duration (in seconds…¹ Finished
   <chr>        <chr>    <dbl> <chr>        <dbl>                  <dbl>    <dbl>
 1 5/5/26 20:03 5/5/26…      0 72.205.8…      100                    146        1
@@ -46,8 +46,8 @@ head(study_raw)
 4 5/6/26 15:03 5/6/26…      0 169.231.…      100                    211        1
 5 5/5/26 19:04 5/6/26…      0 68.6.116…      100                  83227        1
 6 5/6/26 22:11 5/6/26…      0 184.187.…      100                    261        1
-# ℹ abbreviated name: ¹​`Duration (in seconds)`
-# ℹ 35 more variables: RecordedDate <chr>, ResponseId <chr>,
+# Duration (in seconds)`
+#  35 more variables: RecordedDate <chr>, ResponseId <chr>,
 #   ExternalReference <lgl>, LocationLatitude <dbl>, LocationLongitude <dbl>,
 #   DistributionChannel <chr>, UserLanguage <chr>, consent <dbl>, mc <dbl>,
 #   RTL_1 <dbl>, RTL_2 <dbl>, RTL_3 <dbl>, RTL_4 <dbl>, RTL_5 <dbl>,
