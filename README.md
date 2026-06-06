@@ -1,2 +1,5 @@
 # psy120l-final-report-decision-making-study
 Effects of Perceived Peer Norms on Risky Decision Making: College students often make risky decisions influenced by perceived peer norms. This study examines whether peer-engagement vs. peer-avoidance norms affect risk-taking and resistance to peer influence, and whether conscientiousness moderates these effects.
+Study Overview
+
+This study will use a 2 × 2 between-subjects experimental design. The primary independent variable is perceived social norms regarding risky behavior, with two experimental conditions: ENGAGE and AVOID. In the ENGAGE condition, participants will be told that college students commonly engage in a variety of risky behaviors. In the AVOID condition, participants will be told that college students generally avoid risky behaviors. Participants will be randomly assigned to one of the two conditions. The moderator variable is level of conscientiousness (high vs. low), measured using items adapted from the Big Five Inventory. Conscientiousness measures an individual’s degree of self-discipline, organization, and goal-directed behavior. 
